@@ -56,7 +56,7 @@ my_website/
 **Yash Chauhan**
 
 - [GitHub](https://github.com/YashChauhan-2303)
-- [LinkedIn](https://www.linkedin.com/in/yashchauhan-2303/)
+- [LinkedIn](https://www.linkedin.com/in/yash-chauhan-465644274/)
 
 ---
 
